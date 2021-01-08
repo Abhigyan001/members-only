@@ -65,7 +65,7 @@ rails server
 
 - Github: [@Abhigyan001](https://github.com/Abhigyan001)
 - Twitter: [@abhigyan_001](https://twitter.com/abhigyan_001)
-- LinkedIn: [Abhigyan](https://www.linkedin.com/in/abhigyan-mahanta-b49799145/)
+- LinkedIn: [Abhigyan](https://www.linkedin.com/in/abhigyanmahanta/)
 
 👤 **Bello Babakolo**
 
